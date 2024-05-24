@@ -48,5 +48,8 @@
       "dist",
       "__tests__/**/*.ts"
     ]
+  },
+  "resolutions": {
+    "@babel/traverse": "^7.24.5"
   }
 }

@@ -50,5 +50,12 @@
       "dist",
       "__tests__/**/*.ts"
     ]
+  },
+  "resolutions": {
+    "@babel/traverse":"^7.24.5",
+    "tar":"^7.1.0",
+    "follow-redirects":"^1.15.6",
+    "axios":"^1.7.2",
+    "tough-cookie":"^4.1.4"
   }
 }
